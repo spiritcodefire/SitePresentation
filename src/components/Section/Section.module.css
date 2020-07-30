@@ -1,0 +1,14 @@
+body{
+background-color: brown;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.secCaptaine{
+    margin: 10px;
+}
+
