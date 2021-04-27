@@ -21,5 +21,4 @@ SectionItem.propTypes = {
     description: PropTypes.string
 };
   
-
 export default SectionItem

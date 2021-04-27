@@ -1,0 +1,62 @@
+{
+
+    "SlideNew": {
+        "1": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+        "2": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },"Header": {
+        "1": "31 ans, marié, un enfant",
+        "2": "68 rehov Rothsild, Hadera",
+        "3": "Tel: 053.233.80.15",
+        "4": "Zone de disponibilité: Hadera, Haïfa, Tel-Aviv, Herzliya, Netanya",
+        "5": "Full Stack Developpeur Junior",
+        "6": "68 rehov Rothsild, Hadera"
+    },
+    "Aside": {
+        "1": "Languages Informatique",
+        "2": "Front: Html, Css, Bootstrap, Java-script , React.",
+        "3": "Back: Node( Express), Php (Laravel), C# (Unity)",
+        "4": "BD: MongoDB, MariaDB.",
+        "5": "Server-Less: Netlify, Appdrag",
+        "6": "Hebergeur: OVH (DNS,BD,MAIL), Heroku",
+        "7": "AWS: S3, route 53, amazon simple email Service",
+        "8": "Langues",
+        "9": "Français: Langue Maternelle",
+        "10": "Hebreu: Oulpane Beth",
+        "11": "Anglais: Niveau Scolaire",
+        "12": "Diplome",
+        "13": "FULLSTACK DEVELOPER",
+        "14": "webschool, Tel-Aviv",
+        "15": "2021",
+        "16": "BTS NRC",
+        "17": "Esej Paris",
+        "18": "2021"
+    },
+    "Body":{
+        "1": "Parcours professionnel",
+        "2": "Juillet 2020 à Avril 2021 : Freelance Développement Application Web pour RL Event",
+        "3": "Création et mise en production du site www.artandgalleries.com de A à Z ( Git privé disponible sur demande).",
+        "4": "Création d’univers 3D sur mesure sur le moteur de développement UNITY",
+        "5": "Développement d’une E-boutique ( Mongo-Express-React-Node, Redux et Stripe ).",
+        "6": "Développement d’un outil de référencement Google ( MERN ) site pouvant atteindre 500 pages référencés sur google . Version Bêta en ligne. (Git privé dispo sur demande).",
+        "7": "Clonage de site wordpress existant et ajout du Pixel de Facebook. ",
+        "8": "Création de carte de mariage avec interface de contrôle pour les mariés ( front html-css-js et back lambda aws )",
+        "9": "Janvier 2017 à Mars 2020 : Chef de Projet Énergie Renouvelable et CRM",
+        "10": "Installation du robot d’appel VICIDIAL et KAVKOM",
+        "11": "Installation de Téléphone IP.",
+        "12": "Mise en place d’un département de téléprospecteur Remote avec installation et dépannage à distance.",
+        "13": "Architecture d’un CRM dédié à notre activité PHP",
+        "14": "Juin 2014 à Octobre 2016 : Key Account Manager, pour le compte de la Société Direct Medica",
+        "15": "Commercialisation des produits du laboratoire GALDERMA,",
+        "16": "Merchandising, mise en place de PLV, mise en avant des produits,",
+        "17": "Formateur pour notre gamme de produits OTC"
+    },
+    "Footer":{
+        "1": "Github",
+        "2": "Mes Sites",
+        "3": "Linkedin",
+        "4": ""
+    }
+    
+}
+
+

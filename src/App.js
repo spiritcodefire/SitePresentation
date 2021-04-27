@@ -1,17 +1,44 @@
 import React from 'react'
+import { BrowserRouter, Route, Switch } from 'react-router-dom'
+import ContextProvider from './components/ContextProvider/ContextProvider'
 import './App.css'
-import Header from './components/Header/Header'
-// import SectionImage from './components/SectionImage/SectionImage'
+import HomePage from './components/HomePage/HomePage'
+import Cv from './components/CV/PageHome/CV'
+import PageParticles from "./components/PageParticles/PageParticles";
 
-// ici c'est une fonction enrichi le header
-
+// const styles = {
+//   root: {
+//     fontFamily: "sans-serif",
+//     textAlign: "center",
+//     height: "100%",
+//     background: "#222",
+//     display: "flex",
+//     justifyContent: "center",
+//     alignItems: "center"
+//   }
+// };
+{/* <Route path="/particles" component={PageParticles}/> */}
 function App() {
   return (
-    <div className="text-center">
-        <Header title='SpirithaCodech.com'/>
-        {/* <SectionImage/> */}
-        
-    </div>
+
+       
+        <ContextProvider>
+          <BrowserRouter>
+
+          <PageParticles />
+       
+            <Switch>
+       
+              <Route path="/" exact component={HomePage}/>
+              <Route path="/cv" component={Cv}/>
+              
+               
+            </Switch>
+           
+    
+          </BrowserRouter>
+      </ContextProvider>
+
   );
 }
 
