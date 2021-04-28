@@ -1,22 +1,20 @@
 {
 
-    "SlideNew": {
-        "1": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-        "2": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
-    },"Header": {
+   "Header": {
         "1": "31 ans, marié, un enfant",
         "2": "68 rehov Rothsild, Hadera",
         "3": "Tel: 053.233.80.15",
-        "4": "Zone de disponibilité: Hadera, Haïfa, Tel-Aviv, Herzliya, Netanya",
+        "4": "Zone de disponibilité: Hadera, Haïfa, Tel-Aviv, Herzliya, Netanya, Jerusalem",
         "5": "Full Stack Developpeur Junior",
-        "6": "68 rehov Rothsild, Hadera"
+        "6": "68 rehov Rothsild, Hadera",
+        "7": "Junior"
     },"Aside": {
         "1": "Languages Informatique",
-        "2_html": "FRONT: Html, Css, Bootstrap, Java-script , React.",
+        "2": "FRONT: Html, Css, Bootstrap, Java-script , React.",
         "3": "BACK: Node (Express), Php (Laravel), C# (Unity)",
         "4": "BD: MongoDB, MariaDB.",
         "5": "SERVER-LESS: Netlify, Appdrag",
-        "6": "HEBERGEUR: OVH (DNS,BD,MAIL), Heroku",
+        "6": "HEBERGEUR:OVH(DNS,BD,MAIL), Heroku",
         "7": "AWS: S3, route 53, SES",
         "8": "Langues",
         "9": "Français: Langue Maternelle",
@@ -28,14 +26,14 @@
         "15": "2021",
         "16": "BTS NRC",
         "17": "Esej Paris",
-        "18": "2021"
+        "18": "2016"
     },
     "Body":{
         "1": "Parcours professionnel",
         "2": "Juillet 2020 à Avril 2021 : Freelance Développement Application Web pour RL Event",
         "3": "Création et mise en production du site www.artandgalleries.com de A à Z ( Git privé disponible sur demande).",
         "4": "Création d’univers 3D sur mesure sur le moteur de développement UNITY",
-        "5": "Développement d’une E-boutique ( Mongo-Express-React-Node, Redux et Stripe ).",
+        "5": "Développement d’une E-boutique (Mongo-Express-React-Node, Redux et Stripe).",
         "6": "Développement d’un outil de référencement Google ( MERN ) site pouvant atteindre 500 pages référencés sur google . Version Bêta en ligne. (Git privé dispo sur demande).",
         "7": "Clonage de site wordpress existant et ajout du Pixel de Facebook. ",
         "8": "Création de carte de mariage avec interface de contrôle pour les mariés ( front html-css-js et back lambda aws )",

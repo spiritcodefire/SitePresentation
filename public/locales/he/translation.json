@@ -1,0 +1,58 @@
+{
+
+   "Header": {
+        "1": "בן 31, נשוי, ילד אחד",
+        "2": "68 רחוב רוטסילד, חדרה",
+        "3": "Tel: 053.233.80.15",
+        "4": "אזור זמינות: חדרה, חיפה, תל אביב, הרצליה, נתניה, ירושלים",
+        "5": "Full Junior Junior Developer",
+        "6": "68 רחוב רוטסילד, חדרה"
+    },"Aside": {
+        "1": "שפות מחשב",
+        "2": "FRONT: Html, Css, Bootstrap, Java-script , React.",
+        "3": "BACK: Node (Express), Php (Laravel), C# (Unity)",
+        "4": "BD: MongoDB, MariaDB.",
+        "5": "SERVER-LESS: Netlify, Appdrag",
+        "6": "HEBERGEUR:OVH(DNS,BD,MAIL), Heroku",
+        "7": "AWS: S3, route 53, SES",
+        "8": "שפות",
+        "9": "צרפתית: שפת אם",
+        "10": "Hebreu: Oulpane Beth",
+        "11": "אנגלית: רמת בית הספר",
+        "12": "דיפלומה",
+        "13": "FULLSTACK מפתחת",
+        "14": "webschool, Tel-Aviv",
+        "15": "2021",
+        "16": "BTS NRC",
+        "17": "Esej Paris",
+        "18": "2016"
+    },
+    "Body":{
+        "1": "רקע מקצועי",
+        "2": "ולי 2020 עד אפריל 2021: פיתוח יישומי אינטרנט עצמאיים לאירוע RL",
+        "3": "יצירה והפקה של האתר www.artandgalleries.com מ- A עד Z (Git פרטי זמין על פי בקשה).",
+        "4": "יצירת יקומי תלת מימד מותאמים אישית על מנוע הפיתוח של UNITY",
+        "5": "פיתוח חנות אלקטרונית ( Mongo-Express-React-Node, Redux et Stripe ).",
+        "6": "פיתוח של אתר כלי הפניה Google  (MERN) שיכול להגיע ל -500 עמודים המוזכרים בגוגל. גרסת בטא מקוונת. (Git פרטי זמין על פי בקשה).",
+        "7": "שיבוט אתר wordpress קיים והוספת פייסבוק פיקסל.",
+        "8": "צירת כרטיס חתונה עם ממשק בקרה לחתן וכלה ( front html-css-js et back lambda aws )",
+        "9": "נואר 2017 עד מרץ 2020: מנהל פרויקטים של אנרגיה מתחדשת ו- CRM",
+        "10": "התקנת הרובוט להתקשרות VICIDIAL ו- KAVKOM",
+        "11": "התקנת טלפון IP.",
+        "12": "הקמת מחלקת טלפרוסקטור מרוחקת עם התקנה ופתרון בעיות מרחוק",
+        "13": "Architecture d’un CRM dédié à notre activité PHP",
+        "14": "Juin 2014 à Octobre 2016 : Key Account Manager, pour le compte de la Société Direct Medica",
+        "15": "Commercialisation des produits du laboratoire GALDERMA,",
+        "16": "Merchandising, mise en place de PLV, mise en avant des produits,",
+        "17": "Formateur pour notre gamme de produits OTC"
+    },
+    "Footer":{
+        "1": "Github",
+        "2": "Mes Sites :",
+        "3": "Linkedin",
+        "4": ""
+    }
+    
+}
+
+

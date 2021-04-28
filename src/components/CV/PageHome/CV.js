@@ -7,23 +7,14 @@ import Footer from '../Footer/Footer'
 // import i18next from '../../../i18n';
 // import Pdf from "react-to-pdf";
 
-const ref = React.createRef();
 
 
 
 const CV = () => {
-    // function handleClick(lang) {
-    //     i18next.changeLanguage(lang)
-    // }
+
     return (
         <div className="bodyS">
-            {/* <NavBar /> */}
-            
-            {/* <div className="text-center">
-                <Pdf targetRef={ref} filename="Best-Junior.pdf">
-                    {({ toPdf }) => <div className="nav-link" onClick={toPdf}>Edit-to-Pdf</div>}
-                </Pdf>  
-            </div>ref={ref} */}
+
 
             <div className="grid-containerS" >
                 <div className="item1S bg-dark"><Header/></div>

@@ -14,8 +14,10 @@ const useChangeFlag = () => {
     const English = () => setContainerLangue( <img width="36px" style={{ marginRight: '5px' }} src={flagEnglish} alt="logo Angleterre" /> )  
 
     const French = () => setContainerLangue( <img width="25px"  style={{paddingTop: '0px', }} src={logoFr} alt="logo France" />)  
+
+    const Hebrew = () => setContainerLangue( <img width="25px"  style={{paddingTop: '0px', }} src={logoFr} alt="logo France" />)  
     
-    return [ContainerLangue, English , French ]
+    return [ContainerLangue, English , French, Hebrew ]
 
 }
 
@@ -24,7 +26,7 @@ const NavBar = () => {
     const { t } = useTranslation();
 
     useTranslation();
-    const [ContainerLangue,  English , French] = useChangeFlag()
+    const [ContainerLangue,  English , French, Hebrew] = useChangeFlag()
     
     function handleClick(lang) {
         i18next.changeLanguage(lang)
@@ -70,7 +72,13 @@ const NavBar = () => {
                                 }}>Anglais
                             </div>
 
-                            <a className="dropdown-item" href="#">hebreu</a>
+                            <div className="dropdown-item"  onClick={()=>{
+                                handleClick('he');
+                                Hebrew();
+                                }}>hebreu
+                            </div>
+
+                            
                         </div>
                     </li>
                     </ul>

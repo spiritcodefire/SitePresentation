@@ -4,7 +4,7 @@ import LanguageDetector from 'i18next-browser-languagedetector';
 import { initReactI18next } from 'react-i18next';
 
 const fallbackLng = ['fr'];
-const availableLanguages = ['fr','eng'];
+const availableLanguages = ['fr','eng','he'];
 
 
 const options = {
