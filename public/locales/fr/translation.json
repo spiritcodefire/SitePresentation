@@ -10,15 +10,14 @@
         "4": "Zone de disponibilité: Hadera, Haïfa, Tel-Aviv, Herzliya, Netanya",
         "5": "Full Stack Developpeur Junior",
         "6": "68 rehov Rothsild, Hadera"
-    },
-    "Aside": {
+    },"Aside": {
         "1": "Languages Informatique",
-        "2": "Front: Html, Css, Bootstrap, Java-script , React.",
-        "3": "Back: Node( Express), Php (Laravel), C# (Unity)",
+        "2_html": "FRONT: Html, Css, Bootstrap, Java-script , React.",
+        "3": "BACK: Node (Express), Php (Laravel), C# (Unity)",
         "4": "BD: MongoDB, MariaDB.",
-        "5": "Server-Less: Netlify, Appdrag",
-        "6": "Hebergeur: OVH (DNS,BD,MAIL), Heroku",
-        "7": "AWS: S3, route 53, amazon simple email Service",
+        "5": "SERVER-LESS: Netlify, Appdrag",
+        "6": "HEBERGEUR: OVH (DNS,BD,MAIL), Heroku",
+        "7": "AWS: S3, route 53, SES",
         "8": "Langues",
         "9": "Français: Langue Maternelle",
         "10": "Hebreu: Oulpane Beth",
@@ -52,7 +51,7 @@
     },
     "Footer":{
         "1": "Github",
-        "2": "Mes Sites",
+        "2": "Mes Sites :",
         "3": "Linkedin",
         "4": ""
     }

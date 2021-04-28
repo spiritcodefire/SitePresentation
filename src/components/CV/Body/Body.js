@@ -8,6 +8,7 @@ const Body = () => {
             <h5>{t('Body.1')}</h5>
             <div className="text-left p-4">
 
+                <p className="slider0">
                 <p className="taillePAside font-weight-bold">{t('Body.2')}</p>
                 <p className="taillePAside">{t('Body.3')}</p>
                 <p className="taillePAside">{t('Body.4')}</p>
@@ -15,17 +16,22 @@ const Body = () => {
                 <p className="taillePAside">{t('Body.6')}</p>
                 <p className="taillePAside">{t('Body.7')}</p>
                 <p className="taillePAside mb-4">{t('Body.8')}</p>
-
+                </p>
+                
+                <p className="slider1">
                 <p className="taillePAside font-weight-bold">{t('Body.9')}</p>
                 <p className="taillePAside">{t('Body.10')}</p>
                 <p className="taillePAside">{t('Body.11')}</p>
                 <p className="taillePAside">{t('Body.12')}</p>
                 <p className="taillePAside mb-4">{t('Body.13')}</p>
+                </p>
 
+                <p className="slider2">
                 <p className="taillePAside font-weight-bold">{t('Body.14')}</p>
                 <p className="taillePAside">{t('Body.15')}</p>
                 <p className="taillePAside">{t('Body.16')}</p>
                 <p className="taillePAside">{t('Body.17')}</p>
+                </p>
 
             </div>
         </div>

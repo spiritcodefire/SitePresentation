@@ -74,6 +74,10 @@
   margin: 0;
 }
 
+.fsize{
+  font-size: 13px;
+}
+
 .dropdown-item:hover{
   cursor: pointer !important;;
 }
@@ -89,6 +93,159 @@ body{
 img{
   width: 500px;
 }
+
+.rotate-scale-up:hover {
+	-webkit-animation: rotate-scale-up 0.65s linear both;
+	        animation: rotate-scale-up 0.65s linear both;
+}
+
+@-webkit-keyframes rotate-scale-up {
+  0% {
+    -webkit-transform: scale(1) rotateZ(0);
+            transform: scale(1) rotateZ(0);
+  }
+  50% {
+    -webkit-transform: scale(2) rotateZ(180deg);
+            transform: scale(2) rotateZ(180deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotateZ(360deg);
+            transform: scale(1) rotateZ(360deg);
+  }
+}
+@keyframes rotate-scale-up {
+  0% {
+    -webkit-transform: scale(1) rotateZ(0);
+            transform: scale(1) rotateZ(0);
+  }
+  50% {
+    -webkit-transform: scale(2) rotateZ(180deg);
+            transform: scale(2) rotateZ(180deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotateZ(360deg);
+            transform: scale(1) rotateZ(360deg);
+  }
+}
+
+.slider0 {
+  -webkit-animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+      animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+.slider1 {
+  -webkit-animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 250ms both;
+      animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 250ms both;
+}
+.slider2 {
+  -webkit-animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+      animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 500ms both;
+}
+.slider3 {
+  -webkit-animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 750ms both;
+      animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 750ms both;
+}
+.slider4 {
+  -webkit-animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1000ms both;
+      animation: slide-in-right 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1000ms both;
+}
+
+.slidel {
+	-webkit-animation: slide-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1500ms both;
+	        animation: slide-in-left 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) 1500ms both;
+}
+
+@-webkit-keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-1000px);
+            transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    opacity: 1;
+  }
+}
+@keyframes slide-in-left {
+  0% {
+    -webkit-transform: translateX(-1000px);
+            transform: translateX(-1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+            transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+
+
+@-webkit-keyframes slide-in-right {
+  0% {
+    -webkit-transform: translateX(1000px);
+        transform: translateX(1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+        transform: translateX(0);
+    opacity: 1;
+  }
+  }
+@keyframes slide-in-right {
+  0% {
+    -webkit-transform: translateX(1000px);
+        transform: translateX(1000px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateX(0);
+        transform: translateX(0);
+    opacity: 1;
+  }
+  }
+
+
+  .kenburns-left {
+    -webkit-animation: kenburns-left 1s ease-out both;
+            animation: kenburns-left 1s ease-out both;
+  }
+
+ @-webkit-keyframes kenburns-left {
+  0% {
+    -webkit-transform: scale(1) translate(0, 0);
+            transform: scale(1) translate(0, 0);
+    -webkit-transform-origin: 16% 50%;
+            transform-origin: 16% 50%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translate(-20px, 15px);
+            transform: scale(1.25) translate(-20px, 15px);
+    -webkit-transform-origin: left;
+            transform-origin: left;
+  }
+}
+@keyframes kenburns-left {
+  0% {
+    -webkit-transform: scale(1) translate(0, 0);
+            transform: scale(1) translate(0, 0);
+    -webkit-transform-origin: 16% 50%;
+            transform-origin: 16% 50%;
+  }
+  100% {
+    -webkit-transform: scale(1.25) translate(-20px, 15px);
+            transform: scale(1.25) translate(-20px, 15px);
+    -webkit-transform-origin: left;
+            transform-origin: left;
+  }
+}
+
+
+
+
+
+
 
 /* #particles-js{
   background: radial-gradient(circle, rgba(193, 196, 209, 1) 0%,
