@@ -5,7 +5,8 @@
          "2": "68 rehov Rothsild, Hadera",
          "3": "Tel: 053.233.80.15",
          "4": "Availability zone: Hadera, Haifa, Tel Aviv, Herzliya, Netanya, Jerusalem",
-         "5": "Full Stack Junior Developer",
+         "51": "Full Stack Developer",
+         "52": "Junior",
          "6": "68 rehov Rothsild, Hadera"
      },"Aside": {
          "1": "Computer Languages",
@@ -17,7 +18,7 @@
          "7": "AWS: S3, route 53, SES",
          "8": "Langues",
          "9": "French: Mother tongue",
-         "10": "Hebrew: Oulpane Beth",
+         "10": "Hebrew: basic Level",
          "11": "English: School level",
          "12": "Diplome",
          "13": "FULLSTACK DEVELOPER",
@@ -36,7 +37,7 @@
          "6": "Development of a Google referencing tool (MERN) site that can reach 500 pages referenced on google. Online beta version. (Private Git available on request).",
          "7": "Cloning existing wordpress site and adding Facebook Pixel.",
          "8": "Creation of wedding card with control interface for the bride and groom (front html-css-js and back lambda aws)",
-         "9": "anuary 2017 to March 2020: Renewable Energy Project Manager and CRM",
+         "9": "January 2017 to March 2020: Renewable Energy Project Manager and CRM",
          "10": "Installation of the VICIDIAL and KAVKOM call robot",
          "11": "IP Phone Installation.",
          "12": "Establishment of a remote teleprospector department with remote installation and troubleshooting.",

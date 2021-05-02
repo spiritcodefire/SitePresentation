@@ -17,8 +17,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-external-link": "^1.2.1",
-    "react-i18next": "^11.8.13",
-    "react-particles-js": "^3.4.1",
+    " ": "^11.8.13",
+    "react-image-lightbox": "^5.1.1",
+    "react-particles-js": "^3.3.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-to-pdf": "0.0.13"

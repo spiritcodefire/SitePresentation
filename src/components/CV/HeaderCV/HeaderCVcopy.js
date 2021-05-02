@@ -75,7 +75,7 @@ const HeaderCV = () => {
                     />
                 )}
 
-                <h2 className="mx-auto border border-danger px-5 p-2">{t('Header.51')}{" "}<span className="text-blur-out">{t('Header.52')}</span></h2> 
+                <h2 className="mx-auto border border-danger px-5 p-2">{t('Header.5')}</h2> 
             </div>
             
         </div>
