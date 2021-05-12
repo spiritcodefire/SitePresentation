@@ -255,101 +255,28 @@ img{
 
 
 .color-change-2x {
-	-webkit-animation: color-change-2x 16s linear 5s infinite alternate both;
-	        animation: color-change-2x 16s linear 5s infinite alternate both;
+	-webkit-animation: color-change-2x 2s linear 2s both;
+	        animation: color-change-2x 2s linear 2s both;
 }
 
 
 
  @-webkit-keyframes color-change-2x {
   0% {
-    background: rgb(85, 81, 81);
+    background: #af7278;
   }
   100% {
-    background: #af7278;
+    background: rgb(85, 81, 81);
   }
 }
 @keyframes color-change-2x {
   0% {
-    background: rgb(85, 81, 81);
-  }
-  100% {
     background: #af7278;
   }
-}
-
-.text-blur-out {
-	-webkit-animation: text-blur-out 5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 10s both;
-	        animation: text-blur-out 5s cubic-bezier(0.550, 0.085, 0.680, 0.530) 10s both;
-}
-
-
- @-webkit-keyframes text-blur-out {
-  0% {
-    -webkit-filter: blur(0.01);
-            filter: blur(0.01);
-  }
   100% {
-    -webkit-filter: blur(12px) opacity(0%);
-            filter: blur(12px) opacity(0%);
+    background:  rgb(85, 81, 81);
   }
 }
-@keyframes text-blur-out {
-  0% {
-    -webkit-filter: blur(0.01);
-            filter: blur(0.01);
-  }
-  100% {
-    -webkit-filter: blur(12px) opacity(0%);
-            filter: blur(12px) opacity(0%);
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-.text-shadow-pop-tr {
-	-webkit-animation: text-shadow-pop-tr 6s both;
-	        animation: text-shadow-pop-tr 6s both;
-}
-
-
- @-webkit-keyframes text-shadow-pop-tr {
-  0% {
-    text-shadow: 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555;
-    -webkit-transform: translateX(0) translateY(0);
-            transform: translateX(0) translateY(0);
-  }
-  100% {
-    text-shadow: 1px -1px #555555, 2px -2px #555555, 3px -3px #555555, 4px -4px #555555, 5px -5px #555555, 6px -6px #555555, 7px -7px #555555, 8px -8px #555555;
-    -webkit-transform: translateX(-8px) translateY(8px);
-            transform: translateX(-8px) translateY(8px);
-  }
-}
-@keyframes text-shadow-pop-tr {
-  0% {
-    text-shadow: 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555;
-    -webkit-transform: translateX(0) translateY(0);
-            transform: translateX(0) translateY(0);
-  }
-  100% {
-    text-shadow: 1px -1px #555555, 2px -2px #555555, 3px -3px #555555, 4px -4px #555555, 5px -5px #555555, 6px -6px #555555, 7px -7px #555555, 8px -8px #555555;
-    -webkit-transform: translateX(-8px) translateY(8px);
-            transform: translateX(-8px) translateY(8px);
-  }
-}
-
-
-
-
 
 
 
