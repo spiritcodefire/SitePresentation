@@ -44,6 +44,11 @@ const HeaderCV = () => {
                                     handleClick('eng');
                                     }}>Anglais
                                 </div>
+
+                                <div className="dropdown-item"  onClick={()=>{
+                                    handleClick('he');
+                                    }}>Hebrew
+                                </div>
                             </div>
                         </div>
                         <p className="taillePheader">{t('Header.1')}</p>

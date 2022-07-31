@@ -1,60 +1,112 @@
-{
+{ 
+    "Header": { 
 
-    "Header": {
-         "1": "31 years old, married, one child",
-         "2": "68 rehov Rothsild, Hadera",
-         "3": "Tel: 053.233.80.15",
-         "4": "Availability zone: Hadera, Haifa, Tel Aviv, Herzliya, Netanya, Jerusalem",
-         "51": "Full Stack Developer",
-         "52": "Junior",
-         "6": "68 rehov Rothsild, Hadera"
-     },"Aside": {
-         "1": "Computer Languages",
-         "2": "FRONT: Html, Css, Bootstrap, Java-script , React.",
-         "3": "BACK: Node (Express), Php (Laravel), C# (Unity)",
-         "4": "BD: MongoDB, MariaDB.",
-         "5": "SERVER-LESS: Netlify, Appdrag",
-         "6": "HEBERGEUR:OVH(DNS,BD,MAIL), Heroku",
-         "7": "AWS: S3, route 53, SES",
-         "8": "Langues",
-         "9": "French: Mother tongue",
-         "10": "Hebrew: basic Level",
-         "11": "English: School level",
-         "12": "Diplome",
-         "13": "FULLSTACK DEVELOPER",
-         "14": "webschool, Tel-Aviv",
-         "15": "2021",
-         "16": "BTS NRC",
-         "17": "Esej Paris",
-         "18": "2011"
-     },
-     "Body":{
-         "1": "Professional background",
-         "2": "July 2020 to April 2021: Freelance Web Application Development for RL Event",
-         "3": "Creation and production of the site www.artandgalleries.com from A to Z (private Git available on request).",
-         "4": "Creation of custom 3D universes on the UNITY development engine",
-         "5": "Development of an E-store (Mongo-Express-React-Node, Redux and Stripe).",
-         "6": "Development of a Google referencing tool (MERN) site that can reach 500 pages referenced on google. Online beta version. (Private Git available on request).",
-         "7": "Cloning existing wordpress site and adding Facebook Pixel.",
-         "8": "Creation of wedding card with control interface for the bride and groom (front html-css-js and back lambda aws)",
-         "9": "January 2017 to March 2020: Renewable Energy Project Manager and CRM",
-         "10": "Installation of the VICIDIAL and KAVKOM call robot",
-         "11": "IP Phone Installation.",
-         "12": "Establishment of a remote teleprospector department with remote installation and troubleshooting.",
-         "13": "Architecture of a CRM dedicated to our PHP activity",
-         "14": "June 2014 to October 2016: Key Account Manager, on behalf of the Direct Medica Company",
-         "15": "Marketing of GALDERMA laboratory products,",
-         "16": "Merchandising, installation of POS, highlighting of products,",
-         "17": "Trainer for our OTC product line"
-     },
-     "Footer":{
-         "1": "Github",
-         "2": "My WebSites :",
-         "3": "Linkedin",
-         "4": ""
-     }
-     
- }
- 
- 
- 
+         "1": "31 yo, married+1", 
+
+         "2": "68 rehov Rotshild, Hadera", 
+
+         "3": "Tel: 053.233.80.15", 
+
+         "4": "Mobility zone: Hadera, Haifa, Tel Aviv, Herzliya, Netanya, Jerusalem", 
+
+         "51": "Full Stack Developer", 
+
+         "52": "Junior", 
+
+         "6": "68 rehov Rotshild, Hadera" 
+
+     },"Aside": { 
+
+         "1": "Computer Languages", 
+
+         "2": "FRONT: Html, Css, Bootstrap, Java-script, React.", 
+
+         "3": "BACK: Node (Express), Php (Laravel), C# (Unity)", 
+
+         "4": "DB: MongoDB, MariaDB.", 
+
+         "5": "SERVER-LESS: Netlify, Appdrag", 
+
+         "6": "Web hosting:OVH(DNS,BD,MAIL), Heroku", 
+
+         "7": "AWS: S3, route 53, SES", 
+
+         "8": "Languages", 
+
+         "9": "French: Mother tongue", 
+
+         "10": "Hebrew: basic Level", 
+
+         "11": "English: professional level", 
+
+         "12": "Diplomas", 
+
+         "13": "FULLSTACK DEVELOPER", 
+
+         "14": "webschool, Tel-Aviv", 
+
+         "15": "2021", 
+
+         "16": "BTS NRC", 
+
+         "17": "ESEJ Paris", 
+
+         "18": "2011" 
+
+     }, 
+
+     "Body":{ 
+
+         "1": "Professional background", 
+
+         "2": "July 2020 to April 2021: Freelance Web Application Development for RL Event", 
+
+         "3": "Creation and launch of the site www.artandgalleries.com from scratch (private Git available on request).", 
+
+         "4": "Creation of customized 3D universes on the UNITY development tool", 
+
+         "5": "Development of an E-store (Mongo-Express-React-Node, Redux and Stripe).", 
+
+         "6": "Development of a Google referencing tool (MERN) site that can create up to 500 links referenced on google. Online beta version. (Private Git available on request).", 
+
+         "7": "Cloning existing WordPress site using html, CSS, JS dev tools and adding Facebook Pixel.", 
+
+         "8": "Creation of wedding invitation card with user interface for the bride and groom (front html-css-js and back lambda aws)", 
+
+         "9": "January 2017 to March 2020: Renewable Energy Project Manager and CRM", 
+
+         "10": "Installation of the VICIDIAL and KAVKOM call robot", 
+
+         "11": "IP Phone Installation.", 
+
+         "12": "Establishment of a remote teleprospector department with remote installation and troubleshooting.", 
+
+         "13": "Architecture of a CRM dedicated to our PHP activity", 
+
+         "14": "June 2014 to October 2016: Key Account Manager, on  behalf of a pharmaceutical Company, Direct Medica", 
+
+         "15": "Marketing of GALDERMA laboratory products,", 
+
+         "16": "Merchandising, installation of POSA, highlighting of products,", 
+
+         "17": "Trainer for our OTC product line" , 
+
+         "title-Nerd" : "July 2021 until today : Full Stack React/Node",
+         "p-nerd-1" : "Creation of NERDGAMES.IO : front React js, Node Express, MySQL ",
+         "p-nerd-2" : "Creation of NERDGAMES.IO : front React js, Node Express, MySQL ",
+
+     }, 
+
+     "Footer":{ 
+
+         "1": "Github available on request", 
+
+         "2": "My WebSites :", 
+
+         "3": "Linkedin", 
+
+         "4": "" 
+
+     } 
+
+ } 

@@ -1,58 +1,113 @@
-{
+{ 
 
-   "Header": {
-        "1": "בן 31, נשוי, ילד אחד",
-        "2": "68 רחוב רוטסילד, חדרה",
-        "3": "Tel: 053.233.80.15",
-        "4": "אזור זמינות: חדרה, חיפה, תל אביב, הרצליה, נתניה, ירושלים",
-        "5": "Full Junior Junior Developer",
-        "6": "68 רחוב רוטסילד, חדרה"
-    },"Aside": {
-        "1": "שפות מחשב",
-        "2": "FRONT: Html, Css, Bootstrap, Java-script , React.",
-        "3": "BACK: Node (Express), Php (Laravel), C# (Unity)",
-        "4": "BD: MongoDB, MariaDB.",
-        "5": "SERVER-LESS: Netlify, Appdrag",
-        "6": "HEBERGEUR:OVH(DNS,BD,MAIL), Heroku",
-        "7": "AWS: S3, route 53, SES",
-        "8": "שפות",
-        "9": "צרפתית: שפת אם",
-        "10": "Hebreu: Oulpane Beth",
-        "11": "אנגלית: רמת בית הספר",
-        "12": "דיפלומה",
-        "13": "FULLSTACK מפתחת",
-        "14": "webschool, Tel-Aviv",
-        "15": "2021",
-        "16": "BTS NRC",
-        "17": "Esej Paris",
-        "18": "2016"
-    },
-    "Body":{
-        "1": "רקע מקצועי",
-        "2": "ולי 2020 עד אפריל 2021: פיתוח יישומי אינטרנט עצמאיים לאירוע RL",
-        "3": "יצירה והפקה של האתר www.artandgalleries.com מ- A עד Z (Git פרטי זמין על פי בקשה).",
-        "4": "יצירת יקומי תלת מימד מותאמים אישית על מנוע הפיתוח של UNITY",
-        "5": "פיתוח חנות אלקטרונית ( Mongo-Express-React-Node, Redux et Stripe ).",
-        "6": "פיתוח של אתר כלי הפניה Google  (MERN) שיכול להגיע ל -500 עמודים המוזכרים בגוגל. גרסת בטא מקוונת. (Git פרטי זמין על פי בקשה).",
-        "7": "שיבוט אתר wordpress קיים והוספת פייסבוק פיקסל.",
-        "8": "צירת כרטיס חתונה עם ממשק בקרה לחתן וכלה ( front html-css-js et back lambda aws )",
-        "9": "נואר 2017 עד מרץ 2020: מנהל פרויקטים של אנרגיה מתחדשת ו- CRM",
-        "10": "התקנת הרובוט להתקשרות VICIDIAL ו- KAVKOM",
-        "11": "התקנת טלפון IP.",
-        "12": "הקמת מחלקת טלפרוסקטור מרוחקת עם התקנה ופתרון בעיות מרחוק",
-        "13": "Architecture d’un CRM dédié à notre activité PHP",
-        "14": "Juin 2014 à Octobre 2016 : Key Account Manager, pour le compte de la Société Direct Medica",
-        "15": "Commercialisation des produits du laboratoire GALDERMA,",
-        "16": "Merchandising, mise en place de PLV, mise en avant des produits,",
-        "17": "Formateur pour notre gamme de produits OTC"
-    },
-    "Footer":{
-        "1": "Github",
-        "2": "Mes Sites :",
-        "3": "Linkedin",
-        "4": ""
-    }
-    
-}
+ 
 
+    "Header": { 
 
+         "1": "גיל 31, נשוי +1", 
+
+         "2": "רוטשילד 68/13 חדרה", 
+
+         "3": "נייד 053.233.80.15", 
+
+         "4": "ניידות: חדרה, חיפה, ת''א, נתניה, י-ם", 
+
+         "51": "Full Stack מפתח", 
+
+         "52": "Junior", 
+
+         "6": " רוטשילד 68/13 חדרה" 
+
+     },"Aside": { 
+
+         "1": "שפות מחשבים", 
+
+         "2": "FRONT: Html, Css, Bootstrap, Java-script, React.", 
+
+         "3": "BACK: Node (Express), Php (Laravel), C# (Unity)", 
+
+         "4": "DB: MongoDB, MariaDB.", 
+
+         "5": "SERVER-LESS: Netlify, Appdrag", 
+
+         "6": "Web hosting:OVH(DNS,BD,MAIL), Heroku", 
+
+         "7": "AWS: S3, route 53, SES", 
+
+         "8": "שפות", 
+
+         "9": "צרפתית שפת אם", 
+
+         "10": "עברית רמה בסיסית", 
+
+         "11": "אנגלית רמה מקצועית", 
+
+         "12": "תעודות", 
+
+         "13": "FULLSTACK מפתח", 
+
+         "14": "webschool, תל אביב", 
+
+         "15": "2021", 
+
+         "16": "תעודת מו''מ וק''ל 14 ש''ל", 
+
+         "17": "ESEJ Paris", 
+
+         "18": "2011" 
+
+     }, 
+
+     "Body":{ 
+
+         "1": "ניסיון מקצועי", 
+
+         "2": "יולי 2020 עד אפריל 2021 עצמאי Web Application Development עבור RL Event", 
+
+         "3": "יצור והפקת אתר www.artandgalleries.com מא' עד ת' (גיטהב פרטי תינתן לפי דרישה).", 
+
+         "4": " יצירת עולמות תלת ממדי בכלי פיתוח UNITY", 
+
+         "5": "פיתוח מסחר אלקטרוני (Mongo-Express-React-Node, Redux and Stripe).", 
+
+         "6": " פיתוח של  Google referencing tool (MERN)  אתר שיכול לייצר עד 500 לינקים בגוגל . Online beta version. (פרטי תינתן לפי דרישה  Github).", 
+
+         "7": " לשכפל אתרים קיימים בוורדפרם  ע''י HTML, CSS, JS dev tools ולהוסיף Facebook Pixel.", 
+
+         "8": "יצירת הזמנה לחתונה עם יוזר interfaceלחתן וכלה  (front html-css-js and back lambda aws)", 
+
+         "9": "ינאור 2017 עד מרס 2020: מנהל פרויקט וCRM באנרגיות מתחדשות", 
+
+         "10": "התקנה של הרובוט טלפוני VICIDIAL KAVKOM  ", 
+
+         "11": "התקנת טלפוני IP.", 
+
+         "12": "הקמת מחלקת טלפרוספקטור מרחוק כולל התקנה ופתרון בעיות.", 
+
+         "13": "הקמת CRM לפעולוצ PHP", 
+
+         "14": "יוני 2014 עד אוקטובר 2016 מו''מ וק''ל תחום מסחרי עבור מעבדת תרופות, Direct Medica", 
+
+         "15": "מסחרי על תרופות של המעבדה גלדרמה,", 
+
+         "16": "מרצ'נדייז והתקנת פרסומות בבתי מרקחת ", 
+
+         "17": "הכשרה מקצועית לצוותים של הב''מ על המוצרים של המעבדה" 
+
+     }, 
+
+     "Footer":{ 
+
+         "1": "Github תינתן לפי דרישה ",
+
+         "2": "האתרים שלי :", 
+
+         "3": "Linkedin", 
+
+         "4": "" 
+
+     } 
+
+      
+
+ } 
